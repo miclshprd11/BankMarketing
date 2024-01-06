@@ -1,5 +1,5 @@
 # BankMarketing
-UC Berkeley AI/ML practical application 3
+
 
 In this Notebook I go through 4 classification models: SVM, Logistic Regression, Decision Trees, and KNN. 
 I fit these models to bank marketing data where the goal of the campaign is to get customers to sign up for
